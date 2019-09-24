@@ -30,9 +30,8 @@ overcast,72,90,TRUE,yes
 overcast,81,75,FALSE,yes
 rainy,71,91,TRUE,no
 
-### Step 3: Training and Testing by Using Weka
+### Step 3: Training and Testing
 
-#### This code example use a set of classifiers provided by Weka. It trains model on the given dataset and test by using 10-split cross validation.I will explain each classifier later as it is a more complicated topic.
-
+#### This code example use a set of classifiers. It trains model on the given dataset and test by using 10-split cross validation.
 
 
