@@ -1,11 +1,11 @@
 # Java_ML
 
-## Step 1: Download library
-### Download page: http://www.cs.waikato.ac.nz/ml/weka/snapshots/weka_snapshots.html
-### Download stable.XX.zip, unzip the file, add weka.jar to your library path of Java project in Eclipse.
+### Step 1: Download library
+#### Download page: http://www.cs.waikato.ac.nz/ml/weka/snapshots/weka_snapshots.html
+#### Download stable.XX.zip, unzip the file, add weka.jar to your library path of Java project in Eclipse.
 
-## Step 2: Prepare Data
-### Create a txt file "weather.txt" by following the following format:
+### Step 2: Prepare Data
+#### Create a txt file "weather.txt" by following the following format:
 @relation weather
 
 @attribute outlook {sunny, overcast, rainy}
@@ -30,9 +30,9 @@ overcast,72,90,TRUE,yes
 overcast,81,75,FALSE,yes
 rainy,71,91,TRUE,no
 
-## Step 3: Training and Testing by Using Weka
+### Step 3: Training and Testing by Using Weka
 
-### This code example use a set of classifiers provided by Weka. It trains model on the given dataset and test by using 10-split cross validation.I will explain each classifier later as it is a more complicated topic.
+#### This code example use a set of classifiers provided by Weka. It trains model on the given dataset and test by using 10-split cross validation.I will explain each classifier later as it is a more complicated topic.
 
 
 
