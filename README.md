@@ -1,6 +1,6 @@
 # Java_ML
 
-## Step 1: Download Weka library
+## Step 1: Download library
 ### Download page: http://www.cs.waikato.ac.nz/ml/weka/snapshots/weka_snapshots.html
 ### Download stable.XX.zip, unzip the file, add weka.jar to your library path of Java project in Eclipse.
 
